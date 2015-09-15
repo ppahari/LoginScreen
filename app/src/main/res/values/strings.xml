@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoginScreen</string>
+
+    <string name="uname">Enter Username</string>
+    <string name="unamehint">username</string>
+    <string name="pwd">Enter Password</string>
+    <string name="pwdhint">password</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display_list">DisplayList</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
