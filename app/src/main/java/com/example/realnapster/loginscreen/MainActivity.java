@@ -44,7 +44,6 @@ public class MainActivity extends AppCompatActivity {
                     startActivity(intent);
                 }
                     else{
-
                     Toast.makeText(getApplicationContext(), "Wrong Credentials", Toast.LENGTH_SHORT).show();
                 }
 
